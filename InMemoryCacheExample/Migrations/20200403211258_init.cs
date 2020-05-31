@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace CacheExample.Migrations
+namespace InMemoryCacheExample.Migrations
 {
     public partial class init : Migration
     {

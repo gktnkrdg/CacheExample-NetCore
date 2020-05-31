@@ -1,4 +1,4 @@
-﻿using CacheExample.Models;
+﻿using InMemoryCacheExample.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CacheExample
+namespace InMemoryCacheExample
 {
 
 

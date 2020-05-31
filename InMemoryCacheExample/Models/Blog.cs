@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CacheExample.Models
+namespace InMemoryCacheExample.Models
 {
     public class Blog
     {

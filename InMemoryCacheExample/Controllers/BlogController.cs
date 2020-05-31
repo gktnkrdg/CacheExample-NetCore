@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CacheExample.Models;
+using InMemoryCacheExample.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace CacheExample.Controllers
+namespace InMemoryCacheExample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
