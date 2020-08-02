@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCacheExample", "InMemoryCacheExample\InMemoryCacheExample.csproj", "{58761C63-D5AF-4F6D-BAD3-0C5E0B9577ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCacheExample", "DistributedCacheExample\DistributedCacheExample.csproj", "{209CCFCC-F1B5-463B-BC33-AEBA0543EE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCacheExample", "DistributedCacheExample\DistributedCacheExample.csproj", "{209CCFCC-F1B5-463B-BC33-AEBA0543EE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCacheExample", "ResponseCacheExample\ResponseCacheExample.csproj", "{BA14CBC9-ABCD-49CE-A365-9A6CFC568F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{209CCFCC-F1B5-463B-BC33-AEBA0543EE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209CCFCC-F1B5-463B-BC33-AEBA0543EE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209CCFCC-F1B5-463B-BC33-AEBA0543EE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA14CBC9-ABCD-49CE-A365-9A6CFC568F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA14CBC9-ABCD-49CE-A365-9A6CFC568F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA14CBC9-ABCD-49CE-A365-9A6CFC568F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA14CBC9-ABCD-49CE-A365-9A6CFC568F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
